@@ -1,0 +1,17 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
+  "main": "index.js",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "zenn-cli": "^0.5.0"
+  }
+}
